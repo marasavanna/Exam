@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name = "cardViewGrey">#335E878D</color>
+    <color name = "tabViewGrey">#0D5E878D</color>
+    <color name = "buttonGrey">#335E878D</color>
+    <color name="buttonAdd">#995E878D</color>
+    <color name="editAdd">#CC5E878D</color>
+    <color name = "white">#ffffff</color>
+    <color name = "gray">#E7E2E2</color>
+</resources>
